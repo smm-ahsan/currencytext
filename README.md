@@ -43,7 +43,7 @@ No installation and no dependencies. Clone the repo and run it with
 Python 3:
 
 ```bash
-git clone https://github.com/ahsanhani/currencytext.git
+git clone https://github.com/smm-ahsan/currencytext.git
 cd currencytext
 python3 currencytext.py --help
 ```
